@@ -12,7 +12,7 @@ http://eanpictures.com.br:8000/api/cnpj/<b>[cnpj]</b> <br>
 <b>tabela ncm</b><br>
 https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/json
   
-<b>CEP</b><br>
+<b>cep</b><br>
 https://viacep.com.br/ws/<b>[cep]</b>/json/ <br>
 https://ws.apicep.com/cep/<b>[cep]</b>.json <br>
 https://cep.awesomeapi.com.br/json/[cep]</b> <br>
