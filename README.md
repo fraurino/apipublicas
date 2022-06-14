@@ -36,7 +36,6 @@ https://brasilapi.com.br/api/feriados/v1/<b>[ano]</b>
 <b>Cidades por UF</b><br>
 https://brasilapi.com.br/api/ibge/municipios/v1/<b>[uf]</b>
 
-<b>Foto e Imagem do Produto pelo gtin<b><br>
-
+<b>Foto e Imagem do Produto pelo gtin</b><br>
   dados em json :http://www.eanpictures.com.br:9000/api/desc/78932609 <br>
   picture :http://www.eanpictures.com.br:9000/api/gtin/78932609
