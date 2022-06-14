@@ -19,6 +19,7 @@ https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/js
 https://viacep.com.br/ws/<b>[cep]</b>/json/ <br>
 https://ws.apicep.com/cep/<b>[cep]</b>.json <br>
 https://cep.awesomeapi.com.br/json/[cep]</b> <br>
+https://brasilapi.com.br/api/cep/v2/[cep]</b> <br>
 
 <b>Cotação de Moedas</b><br> 
  https://api.hgbrasil.com/finance<br>
@@ -28,3 +29,9 @@ https://cep.awesomeapi.com.br/json/[cep]</b> <br>
 
 <b>Localidades/Estados IBGE</b><br>
 https://servicodados.ibge.gov.br/api/v1/localidades/estados/[uf]/distritos
+
+<b>Feriados</b><br>
+https://brasilapi.com.br/api/feriados/v1/<b>[ano]</b>
+
+<b>Cidades por UF</b><br>
+https://brasilapi.com.br/api/ibge/municipios/v1/<b>[uf]</b>
