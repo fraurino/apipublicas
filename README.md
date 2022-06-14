@@ -1,5 +1,5 @@
 # API Públicas
-Lista de API encontradas na WEB
+Lista de API encontradas na WEB 
 
 <b>consulta cnpj/ie</b><br>
 http://www.dtloja.com.br:20000/api/cnpj/<b>[cnpj]</b><br>
