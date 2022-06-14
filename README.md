@@ -10,6 +10,7 @@ https://apiconsultacnpj.com.br/ <br>
 https://minhareceita.org/<b>[cnpj]</b> <br>
 http://eanpictures.com.br:8000/api/cnpj/<b>[cnpj]</b> <br>
 https://www.sintegraws.com.br/<br>
+https://brasilapi.com.br/api/cnpj/v1/<b>[cnpj]</b> <br>
 
 <b>tabela ncm</b><br>
 https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/json
