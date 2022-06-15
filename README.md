@@ -42,6 +42,6 @@ http://brasilapi.simplescontrole.com.br/mercadoria/consulta/?ean=[CODIGO_GTIN]&a
 <b>eanpictures</b><br>
   dados em json :http://www.eanpictures.com.br:9000/api/desc/[CODIGO_GTIN] <br>
   picture :http://www.eanpictures.com.br:9000/api/gtin/[CODIGO_GTIN]<br>
-  <b>cosmos bluesof</b><br>
+  <b>cosmos bluesoft</b><br>
   https://api.cosmos.bluesoft.com.br/gtins/7891910000197.json<br>
   https://ajuda.bling.com.br/hc/pt-br/articles/360046422734-GET-produto-codigo- <br>
