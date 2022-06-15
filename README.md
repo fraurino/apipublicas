@@ -37,5 +37,11 @@ https://brasilapi.com.br/api/feriados/v1/<b>[ano]</b>
 https://brasilapi.com.br/api/ibge/municipios/v1/<b>[uf]</b>
 
 <b>Foto e Imagem do Produto pelo gtin</b><br>
-  dados em json :http://www.eanpictures.com.br:9000/api/desc/78932609 <br>
-  picture :http://www.eanpictures.com.br:9000/api/gtin/78932609
+<b>brasil api</b><br>
+http://brasilapi.simplescontrole.com.br/mercadoria/consulta/?ean=[CODIGO_GTIN]&access-token=[MY_TOKEN]
+<b>eanpictures</b><br>
+  dados em json :http://www.eanpictures.com.br:9000/api/desc/[CODIGO_GTIN] <br>
+  picture :http://www.eanpictures.com.br:9000/api/gtin/[CODIGO_GTIN]<br>
+  <b>cosmos bluesof</b><br>
+  https://api.cosmos.bluesoft.com.br/gtins/7891910000197.json<br>
+  https://ajuda.bling.com.br/hc/pt-br/articles/360046422734-GET-produto-codigo- <br>
