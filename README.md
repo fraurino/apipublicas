@@ -20,6 +20,7 @@ https://viacep.com.br/ws/<b>[cep]</b>/json/ <br>
 https://ws.apicep.com/cep/<b>[cep]</b>.json <br>
 https://cep.awesomeapi.com.br/json/[cep]</b> <br>
 https://brasilapi.com.br/api/cep/v2/[cep]</b> <br>
+http://brasilapi.simplescontrole.com.br/correios/consulta-cep?cep=[cep]&access-token=[token]
 
 <b>Cotação de Moedas</b><br> 
  https://api.hgbrasil.com/finance<br>
@@ -45,3 +46,7 @@ http://brasilapi.simplescontrole.com.br/mercadoria/consulta/?ean=[CODIGO_GTIN]&a
   <b>cosmos bluesoft</b><br>
   https://api.cosmos.bluesoft.com.br/gtins/7891910000197.json<br>
   https://ajuda.bling.com.br/hc/pt-br/articles/360046422734-GET-produto-codigo- <br>
+  
+  
+<b>Clima, Tempo <b><br>
+  https://console.hgbrasil.com/documentation/weather
