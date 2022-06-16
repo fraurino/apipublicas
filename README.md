@@ -30,8 +30,8 @@ http://brasilapi.simplescontrole.com.br/correios/consulta-cep?cep=[cep]&access-t
   -https://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL,BTC-BRL<br>
 
 <b>Localidades/Estados IBGE</b><br>
-https://servicodados.ibge.gov.br/api/v1/localidades/estados/[uf]/distritos
-
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/[uf]/distritos<br>
+https://viacep.com.br/ws/[cep]/json/<br>
 <b>Feriados</b><br>
 https://brasilapi.com.br/api/feriados/v1/<b>[ano]</b>
 
