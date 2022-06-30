@@ -1,6 +1,9 @@
 # API Públicas
 Lista de API encontradas na WEB 
 
+<b>Whatsapp</b><br>
+https://github.com/fraurino/apiwhatsapp
+
 <b>consulta cnpj/ie</b><br>
 http://www.dtloja.com.br:20000/api/cnpj/<b>[cnpj]</b><br>
 https://www.receitaws.com.br/v1/cnpj/<b>[cnpj]</b> <br>
@@ -47,7 +50,6 @@ http://brasilapi.simplescontrole.com.br/mercadoria/consulta/?ean=[CODIGO_GTIN]&a
   <b>cosmos bluesoft</b><br>
   https://api.cosmos.bluesoft.com.br/gtins/7891910000197.json<br>
   https://ajuda.bling.com.br/hc/pt-br/articles/360046422734-GET-produto-codigo- <br>
-  
-  
+ 
 <b>Clima, Tempo <b><br>
   https://console.hgbrasil.com/documentation/weather
