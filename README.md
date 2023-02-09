@@ -18,6 +18,7 @@ https://www.sintegraws.com.br/<br>
 
 <b>tabela ncm</b><br>
 https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/json
+<br> exemplo de uso em delphi: https://github.com/fraurino/casesexamples/blob/main/Exemplos/URLtoJsonNCM.pas
   
 <b>cep</b><br>
 https://viacep.com.br/ws/<b>[cep]</b>/json/ <br>
