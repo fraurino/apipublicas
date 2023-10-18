@@ -9,6 +9,7 @@ http://www.dtloja.com.br:20000/api/cnpj/<b>[cnpj]</b><br>
 https://www.receitaws.com.br/v1/cnpj/<b>[cnpj]</b> <br>
 https://dev.nuvemfiscal.com.br/docs/api/#tag/Cnpj</b><br>
 https://publica.cnpj.ws/cnpj/<b>[cnpj]</b> <b>retorna a IE por UF</b><br>
+https://sintegrawscom.br/<b>[cnpj]</b> <b>retorna a IE</b><br>
 https://api-publica.speedio.com.br/buscarcnpj?cnpj=<b>[cnpj]</b><br>
 https://apiconsultacnpj.com.br/ <br> 
 https://minhareceita.org/<b>[cnpj]</b> <br>
