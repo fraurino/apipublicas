@@ -5,6 +5,12 @@ Lista de API encontradas na WEB
 https://github.com/fraurino/apiwhatsapp
 
 <b>consulta cnpj/ie</b><br>
+
+API Consulta IE pelo CNPJ<br>
+cnpj.ws<b>[cnpj]</b><br>
+open.cnpja.com/<b>[cnpj]</b><br>
+sintegraws.com.br<b>[cnpj]</b><br>
+
 http://www.dtloja.com.br:20000/api/cnpj/<b>[cnpj]</b><br>
 https://www.receitaws.com.br/v1/cnpj/<b>[cnpj]</b> <br>
 https://dev.nuvemfiscal.com.br/docs/api/#tag/Cnpj</b><br>
